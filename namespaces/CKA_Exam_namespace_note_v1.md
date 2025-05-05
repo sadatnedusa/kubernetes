@@ -1,6 +1,6 @@
-To prepare for the **Certified Kubernetes Administrator (CKA)** exam, you need to have a solid understanding of **Namespaces** in Kubernetes and how to manage them effectively.
-Namespaces are part of Kubernetes' resource management system and are essential for isolating and organizing resources in the cluster.
-Since **namespaces** are a critical concept in multi-tenant and production environments, you'll encounter them frequently on the exam.
+- To prepare for the **Certified Kubernetes Administrator (CKA)** exam, you need to have a solid understanding of **Namespaces** in Kubernetes and how to manage them effectively.
+- Namespaces are part of Kubernetes' resource management system and are essential for isolating and organizing resources in the cluster.
+- Since **namespaces** are a critical concept in multi-tenant and production environments, you'll encounter them frequently on the exam.
 
 In this guide, I’ll cover the following key aspects that are important for the **CKA exam** regarding namespaces:
 
