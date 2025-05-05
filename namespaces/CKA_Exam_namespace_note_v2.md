@@ -1,5 +1,5 @@
-To help you prepare for your **Certified Kubernetes Administrator (CKA)** exam, it’s crucial to have a deep understanding of the following concepts related to **Namespaces**. 
-Below, I’ll provide detailed explanations and examples for each of the points you need to practice and focus on for the exam:
+- To help you prepare for your **Certified Kubernetes Administrator (CKA)** exam, it’s crucial to have a deep understanding of the following concepts related to **Namespaces**.
+- Below, I’ll provide detailed explanations and examples for each of the points you need to practice and focus on for the exam:
 
 ---
 
